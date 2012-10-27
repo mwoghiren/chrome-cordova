@@ -1,1 +1,1 @@
-../api/chromeapi.js
+../build/chromeapi.js
